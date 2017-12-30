@@ -3,7 +3,7 @@ color:black;
 margin:0% 5% 0% 7% ;
 
 font-family:alegeria;
-font-size:30px;
+font-size:100%;
 width:25%;
 height:500px;
 display:inline-block;
@@ -295,7 +295,7 @@ div.t1{
 	text-align:center;
 	text-shadow: 0 0 3px #FF0000;
 	padding:2px 2px 0px 2px;
-	font-size:50px;
+	font-size:300%;
 	font-family:georgia;
 }
 div.t2{
@@ -310,7 +310,7 @@ div.t2{
 	text-align:center;
 	text-shadow: 0 0 3px #FF0000;
 	padding:2px 2px 0px 2px;
-	font-size:50px;
+	font-size:300%;
 	font-family:georgia;
 }
 div.t3{
@@ -325,7 +325,7 @@ div.t3{
 	text-align:center;
 	text-shadow: 0 0 3px #FF0000;
 	padding:2px 2px 0px 2px;
-	font-size:50px;
+	font-size:300%;
 	font-family:georgia;
 }
 div.t4{
@@ -339,7 +339,7 @@ div.t4{
 	color:blue;
 	text-align:center;	
     padding:2px 2px 0px 2px;
-	font-size:50px;
+	font-size:300%;
 	font-family:georgia;
 	
 }
@@ -356,7 +356,7 @@ div.k{
 	color:#2D89F7;
 	text-align:center;
 	font-family:georgia;
-	font-size:50px;
+	font-size:300%;
 }
 div.par
 {
@@ -371,13 +371,13 @@ div.bloc
 	border: 5px solid black;
 	text-align:center;
 	height:200px;
-	font-size:100px;
+	font-size:100%;
 }
 .bb
 {
 	height:200px;
 	width:300px;
-	font-size:100px;
+	font-size:100%;
 	margin-left:10em;
 	
 }
@@ -404,7 +404,7 @@ hr
 }	
 span
 {
-	font-size:50px;
+	font-size:300%;
 	
 	
 }
